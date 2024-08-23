@@ -1,1362 +1,1341 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.21): 1724379517837 tunnel running, 3 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.21): 1724381231697 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379520972 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381234838 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379524105 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381237979 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379527238 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381241116 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379530375 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381244262 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379533510 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381247395 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379536653 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381250543 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379539801 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381253678 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379542937 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381256811 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379546074 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381259943 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379549209 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381263079 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379552347 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381266221 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379555508 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381269357 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379558660 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381272492 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379561795 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381275627 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379564940 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381278778 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379568077 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381281920 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379571247 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381285055 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379574389 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381288188 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379577526 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381291337 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379580664 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381294472 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379583800 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381297609 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379586933 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381300747 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379590090 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381303882 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379593228 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381307015 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379596361 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381310149 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379599509 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381313306 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379602654 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381316445 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379605791 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381319585 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379608943 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381322722 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379612085 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381325855 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379615235 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381328991 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379618367 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381332123 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379621511 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381335262 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379624653 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381338400 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379627788 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381341533 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379630923 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381344684 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379634057 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381347822 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379637192 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381350964 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379640330 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381354103 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379643481 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381357243 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379646621 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381360376 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379649764 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381363513 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379652902 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381366652 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379656042 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381369791 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379659177 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381372930 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379662317 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381376071 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379665452 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381379210 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379668589 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381382356 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379671724 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381385496 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379674856 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381388637 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379677990 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381391773 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379681124 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381394907 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379684258 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381398043 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379687394 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381401184 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379690528 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381404325 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379693674 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381407463 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379696813 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381410593 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379699959 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381413730 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379703092 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381416862 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379706232 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381419995 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379709369 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381423133 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379712505 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381426269 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379715642 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381429401 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379718780 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381432534 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379721915 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381435674 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379725053 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381438811 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379728183 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381441944 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379731318 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381445083 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379734458 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381448217 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379737606 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381451374 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379740737 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381454509 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379743879 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381457646 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379747016 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381460778 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379750154 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381463911 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379753289 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381467044 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379756427 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381470190 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379759561 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381473329 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379762694 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381476463 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379765830 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381479616 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379768969 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381482752 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379772117 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381485889 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379775251 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381489029 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379778385 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381492175 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379781524 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381495311 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379784661 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381498443 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379787804 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381501581 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379790938 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381504719 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379794072 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381507858 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379797210 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381510990 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379800343 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381514131 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379803482 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381517264 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379806619 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381520399 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379809764 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381523536 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379812917 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381526680 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379816057 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381529815 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379819197 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381532954 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379822338 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381536087 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379825478 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381539227 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379828622 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381542367 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379831757 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381545512 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379834900 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381548650 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379838046 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381551792 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379841194 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381554930 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379844343 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381558063 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379847480 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381561195 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379850620 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381564330 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379853762 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381567467 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379856898 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381570600 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379860040 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381573734 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379863177 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381576871 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379866310 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381580014 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379869445 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381583157 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379872578 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381586292 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379875720 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381589437 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379878855 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381592569 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379881991 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381595707 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379885124 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381598839 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379888264 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381601973 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379891414 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381605117 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379894558 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381608254 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379897694 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381611390 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379900835 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381614529 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379903973 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381617664 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379907116 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381620800 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379910258 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381623934 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379913414 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381627074 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379916564 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381630209 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379919700 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381633341 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379922838 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381636475 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379925975 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381639621 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379929120 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381642753 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379932257 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381645887 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379935390 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381649022 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379938529 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381652157 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379941664 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381655297 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379944809 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381658451 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379947951 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381661583 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379951088 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381664730 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379954224 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381667866 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379957358 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381671007 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379960495 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381674142 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379963629 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381677280 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379966760 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381680413 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379969895 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381683557 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379973027 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381686695 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379976161 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381689833 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379979297 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381692965 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379982431 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381696097 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379985574 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381699229 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379988709 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381702368 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379991841 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381705504 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379994975 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381708636 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724379998107 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381711767 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380001244 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381714900 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380004386 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381718032 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380007522 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381721174 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380010657 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381724314 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380013794 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381727453 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380016941 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381730585 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380020077 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381733725 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380023211 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381736858 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380026346 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381739992 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380029486 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381743124 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380032624 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381746260 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380035759 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381749395 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380038894 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381752535 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380042028 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381755669 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380045161 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381758800 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380048296 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381761932 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380051433 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381765066 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380054566 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381768199 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380057704 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381771336 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380060846 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381774479 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380063984 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381777617 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380067122 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381780755 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380070262 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381783894 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380073497 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381787034 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380076632 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381790168 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380079770 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381793299 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380082904 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381796449 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380086037 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381799582 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380089180 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381802715 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380092318 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381805853 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380095462 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381808989 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380098601 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381812121 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380101739 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381815258 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380104879 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381818393 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380108013 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381821529 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380111171 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381824675 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380114304 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381827809 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
 co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380117441 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
-co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380120575 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
-co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380123709 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-am-dennis.gl.at.ply.gg:4758 => 127.0.0.1:4758 (proto: Udp, port count: 1)
-co-gas.gl.at.ply.gg:4900 => 127.0.0.1:4900 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724380126845 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724381830964 tunnel running, 3 tunnels registered
 
 
 TUNNELS
